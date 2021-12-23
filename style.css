@@ -1,12 +1,17 @@
 body {
   font-family: Sans-serif;
-  font-size: 12px;
+  font-size: 13px;
+  font-weight: bold;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(131,58,180);
-  background-image: url("https://images.squarespace-cdn.com/content/v1/5f84e8e725aed70706e46495/ece8441d-14a2-43e2-8c46-c7b9258c87db/DCDAFDF8-B00C-4C7B-B6BF-0D9D5CB0EFE7.jpg?format=1500w");
+  
+  /*background: rgb(131,58,180); */
+  
+  background-image: url(pagebackground.JPEG);
+  background-size: 500px; 
   color: white;
+  
 }
 .box {
   max-width: 300px;
