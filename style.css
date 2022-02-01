@@ -13,6 +13,13 @@ body {
   color: white;
   
 }
+.footer{ 
+       position: fixed;     
+       text-align: center;
+       font-size: 30px;
+       bottom: 0px; 
+       width: 100%;
+   }  
 .box {
   max-width: 300px;
   text-align: center;
